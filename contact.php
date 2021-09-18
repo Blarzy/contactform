@@ -48,16 +48,16 @@ if(isset($_POST['submit'])) {
                         <li>
                             <span><img src="img/location.png"></span>
                             <span>1223, Budapest,<br>
-                                  Rózsaert utca <br>    
-                                  3-11.</span>
+                                  Hunyadi utca <br>    
+                                  2.</span>
                         </li>
                         <li>
                             <span><img src="img/mail.png"></span>
-                            <span>szecsivi@gmail.com</span>
+                            <span>valaki@valami.com</span>
                         </li>
                         <li>
                             <span><img src="img/call.png"></span>
-                            <span>+36701234567</span>
+                            <span>+36123456789</span>
                         </li>
                     </ul>
                 </div>
@@ -92,7 +92,7 @@ if(isset($_POST['submit'])) {
                             <input type="submit" name="submit" value="Küldés">
                         </div>
                         <div class="inputBox w100">
-                            <a class="getback" href="main.php">Vissza</a>
+                            <a class="getback" href="#">Vissza</a>
                         </div>
                     </div>
                 </div>
